@@ -1,0 +1,262 @@
+# BSD 3-Clause License
+#
+# Copyright 2025 Piyush Kumar, Dongwon Jang, Da Eun Shim, Azad Naeemi, or Georgia Institute of Technology
+#
+# Redistribution and use in source and binary forms, with or without 
+# modification, are permitted provided that the following conditions are met:
+#
+# 1. Redistributions of source code must retain the above copyright notice, 
+# this list of conditions and the following disclaimer.
+#
+# 2. Redistributions in binary form must reproduce the above copyright notice, 
+# this list of conditions and the following disclaimer in the documentation 
+# and/or other materials provided with the distribution.
+#
+# 3. Neither the name of the copyright holder nor the names of its contributors 
+# may be used to endorse or promote products derived from this software without 
+# specific prior written permission.
+#
+# THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS “AS IS” 
+# AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, 
+# THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE 
+# ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE 
+# FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES 
+# (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; 
+# LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND 
+# ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT 
+# (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS 
+# SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+# GT2 layer map file from APR
+
+V0         LEFPIN         22      0
+V0         VIA            22      0
+V0         PIN            22      251
+M1         NET            25      0
+M1         SPNET          25      0
+M1         LEFPIN         25      0
+M1         VIA            25      0
+M1         LEFOBS         25      0
+M1         PIN            25      251
+NAME       M1/SPNET       25      251
+NAME       M1/PIN         25      251
+NAME       M1/LEFPIN      25      251
+V1         LEFPIN         27      0
+V1         VIA            27      0
+V1         PIN            27      251
+M2         NET            30      0
+M2         SPNET          30      0
+M2         LEFPIN         30      0
+M2         VIA            30      0
+M2         LEFOBS         30      0
+M2         PIN            30      251
+NAME       M2/SPNET       30      251
+NAME       M2/PIN         30      251
+NAME       M2/LEFPIN      30      251
+V2         LEFPIN         32      0
+V2         VIA            32      0
+V2         PIN            32      251
+M3         NET            35      0
+M3         SPNET          35      0
+M3         LEFPIN         35      0
+M3         VIA            35      0
+M3         LEFOBS         35      0
+M3         PIN            35      251
+NAME       M3/SPNET       35      251
+NAME       M3/PIN         35      251
+NAME       M3/LEFPIN      35      251
+V3         LEFPIN         37      0
+V3         VIA            37      0
+V3         PIN            37      251
+M4         NET            40      0
+M4         SPNET          40      0
+M4         LEFPIN         40      0
+M4         VIA            40      0
+M4         LEFOBS         40      0
+M4         PIN            40      251
+NAME       M4/SPNET       40      251
+NAME       M4/PIN         40      251
+NAME       M4/LEFPIN      40      251
+V4         LEFPIN         42      0
+V4         VIA            42      0
+V4         PIN            42      251
+M5         NET            45      0
+M5         SPNET          45      0
+M5         LEFPIN         45      0
+M5         VIA            45      0
+M5         LEFOBS         45      0
+M5         PIN            45      251
+NAME       M5/SPNET       45      251
+NAME       M5/PIN         45      251
+NAME       M5/LEFPIN      45      251
+V5         LEFPIN         47      0
+V5         VIA            47      0
+V5         PIN            47      251
+M6         NET            50      0
+M6         SPNET          50      0
+M6         LEFPIN         50      0
+M6         VIA            50      0
+M6         LEFOBS         50      0
+M6         PIN            50      251
+NAME       M6/SPNET       50      251
+NAME       M6/PIN         50      251
+NAME       M6/LEFPIN      50      251
+V6         LEFPIN         52      0
+V6         VIA            52      0
+V6         PIN            52      251
+M7         NET            55      0
+M7         SPNET          55      0
+M7         LEFPIN         55      0
+M7         VIA            55      0
+M7         LEFOBS         55      0
+M7         PIN            55      251
+NAME       M7/SPNET       55      251
+NAME       M7/PIN         55      251
+NAME       M7/LEFPIN      55      251
+V7         LEFPIN         57      0
+V7         VIA            57      0
+V7         PIN            57      251
+M8         NET            60      0
+M8         SPNET          60      0
+M8         LEFPIN         60      0
+M8         VIA            60      0
+M8         LEFOBS         60      0
+M8         PIN            60      251
+NAME       M8/SPNET       60      251
+NAME       M8/PIN         60      251
+NAME       M8/LEFPIN      60      251
+V8         LEFPIN         62      0
+V8         VIA            62      0
+V8         PIN            62      251
+M9         NET            65      0
+M9         SPNET          65      0
+M9         LEFPIN         65      0
+M9         VIA            65      0
+M9         LEFOBS         65      0
+M9         PIN            65      251
+NAME       M9/SPNET       65      251
+NAME       M9/PIN         65      251
+NAME       M9/LEFPIN      65      251
+V9         LEFPIN         67      0
+V9         VIA            67      0
+V9         PIN            67      251
+M10        NET            70      0
+M10        SPNET          70      0
+M10        LEFPIN         70      0
+M10        VIA            70      0
+M10        LEFOBS         70      0
+M10        PIN            70      251
+NAME       M10/SPNET      70      251
+NAME       M10/PIN        70      251
+NAME       M10/LEFPIN     70      251
+V10        LEFPIN         72      0
+V10        VIA            72      0
+V10        PIN            72      251
+M11        NET            75      0
+M11        SPNET          75      0
+M11        LEFPIN         75      0
+M11        VIA            75      0
+M11        LEFOBS         75      0
+M11        PIN            75      251
+NAME       M11/SPNET      75      251
+NAME       M11/PIN        75      251
+NAME       M11/LEFPIN     75      251
+V11        LEFPIN         77      0
+V11        VIA            77      0
+V11        PIN            77      251
+M12        NET            80      0
+M12        SPNET          80      0
+M12        LEFPIN         80      0
+M12        VIA            80      0
+M12        LEFOBS         80      0
+M12        PIN            80      251
+NAME       M12/SPNET      80      251
+NAME       M12/PIN        80      251
+NAME       M12/LEFPIN     80      251
+V12        LEFPIN         82      0
+V12        VIA            82      0
+V12        PIN            82      251
+M13        NET            85      0
+M13        SPNET          85      0
+M13        LEFPIN         85      0
+M13        VIA            85      0
+M13        LEFOBS         85      0
+M13        PIN            85      251
+NAME       M13/SPNET      85      251
+NAME       M13/PIN        85      251
+NAME       M13/LEFPIN     85      251
+V13        LEFPIN         87      0
+V13        VIA            87      0
+V13        PIN            87      251
+RDL        NET            90      0
+RDL        SPNET          90      0
+RDL        LEFPIN         90      0
+RDL        VIA            90      0
+RDL        LEFOBS         90      0
+RDL        PIN            90      251
+NAME       RDL/SPNET      90      251
+NAME       RDL/PIN        90      251
+NAME       RDL/LEFPIN     90      251
+BV0        LEFPIN        910     0
+BV0        VIA           910     0
+BV0        PIN           910     251
+BM1        NET           920     0
+BM1        SPNET         920     0
+BM1        LEFPIN        920     0
+BM1        VIA           920     0
+BM1        LEFOBS        920     0
+BM1        PIN           920     251
+NAME       BM1/SPNET     920     251
+NAME       BM1/PIN       920     251
+NAME       BM1/LEFPIN    920     251
+BV1        LEFPIN        930     0
+BV1        VIA           930     0
+BV1        PIN           930     251
+BM2        NET           940     0
+BM2        SPNET         940     0
+BM2        LEFPIN        940     0
+BM2        VIA           940     0
+BM2        LEFOBS        940     0
+BM2        PIN           940     251
+NAME       BM2/SPNET     940     251
+NAME       BM2/PIN       940     251
+NAME       BM2/LEFPIN    940     251
+BV2        LEFPIN        950     0
+BV2        VIA           950     0
+BV2        PIN           950     251
+BM3        NET           960     0
+BM3        SPNET         960     0
+BM3        LEFPIN        960     0
+BM3        VIA           960     0
+BM3        LEFOBS        960     0
+BM3        PIN           960     251
+NAME       BM3/SPNET     960     251
+NAME       BM3/PIN       960     251
+NAME       BM3/LEFPIN    960     251
+BV3        LEFPIN        970     0
+BV3        VIA           970     0
+BV3        PIN           970     251
+BM4        NET           980     0
+BM4        SPNET         980     0
+BM4        LEFPIN        980     0
+BM4        VIA           980     0
+BM4        LEFOBS        980     0
+BM4        PIN           980     251
+NAME       BM4/SPNET     980     251
+NAME       BM4/PIN       980     251
+NAME       BM4/LEFPIN    980     251
+BV4        LEFPIN        990     0
+BV4        VIA           990     0
+BV4        PIN           990     251
+BRDL       NET           1000    0
+BRDL       SPNET         1000    0
+BRDL       LEFPIN        1000    0
+BRDL       VIA           1000    0
+BRDL       LEFOBS        1000    0
+BRDL       PIN           1000    251
+NAME       BRDL/SPNET    1000    251
+NAME       BRDL/PIN      1000    251
+NAME       BRDL/LEFPIN   1000    251
+NAME       COMP           235     0
+COMP       ALL            235     0
+DIEAREA    ALL            235     0
