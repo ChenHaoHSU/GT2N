@@ -1733,12 +1733,12 @@ MACRO gt2_6t_buf_x8_w31_elvt
   END
 END gt2_6t_buf_x8_w31_elvt
 
-MACRO gt2_6t_decapcc
+MACRO gt2_6t_decapcc_w31_elvt
   CLASS CORE  ;
   ORIGIN 0 0 ;
   SYMMETRY X Y ;
   SITE gt2_6t ;
-    FOREIGN gt2_6t_decapcc 0 0 ;
+    FOREIGN gt2_6t_decapcc_w31_elvt 0 0 ;
   SIZE 0.084 BY 0.144 ;
   PIN vdd
     DIRECTION INOUT ;
@@ -1766,7 +1766,7 @@ MACRO gt2_6t_decapcc
       RECT 0.056 0.014 0.07 0.129 ;
       RECT 0.014 0.015 0.028 0.13 ;
   END
-END gt2_6t_decapcc
+END gt2_6t_decapcc_w31_elvt
 
 MACRO gt2_6t_dffasync_x1_w31_elvt
   CLASS CORE  ;
@@ -2166,12 +2166,12 @@ MACRO gt2_6t_dffasync_x4_w31_elvt
   END
 END gt2_6t_dffasync_x4_w31_elvt
 
-MACRO gt2_6t_filler
+MACRO gt2_6t_filler_w31_elvt
   CLASS CORE  ;
   ORIGIN 0 0 ;
   SYMMETRY X Y ;
   SITE gt2_6t ;
-    FOREIGN gt2_6t_filler 0 0 ;
+    FOREIGN gt2_6t_filler_w31_elvt 0 0 ;
   SIZE 0.042 BY 0.144 ;
   PIN vdd
     DIRECTION INOUT ;
@@ -2189,7 +2189,7 @@ MACRO gt2_6t_filler
         RECT 0 -0.016 0.042 0.016 ;
     END
   END vss
-END gt2_6t_filler
+END gt2_6t_filler_w31_elvt
 
 MACRO gt2_6t_inv_x1_w31_elvt
   CLASS CORE  ;
@@ -4549,12 +4549,12 @@ MACRO gt2_6t_or3_x1_w31_elvt
   END
 END gt2_6t_or3_x1_w31_elvt
 
-MACRO gt2_6t_tap
+MACRO gt2_6t_tap_w31_elvt
   CLASS CORE  ;
   ORIGIN 0 0 ;
   SYMMETRY X Y ;
   SITE gt2_6t ;
-    FOREIGN gt2_6t_tap 0 0 ;
+    FOREIGN gt2_6t_tap_w31_elvt 0 0 ;
   SIZE 0.084 BY 0.144 ;
   PIN vdd
     DIRECTION INOUT ;
@@ -4580,7 +4580,7 @@ MACRO gt2_6t_tap
       RECT 0 -0.016 0.084 0.016 ;
       RECT 0 0.128 0.084 0.16 ;
   END
-END gt2_6t_tap
+END gt2_6t_tap_w31_elvt
 
 MACRO gt2_6t_tiehigh_w31_elvt
   CLASS CORE  ;
