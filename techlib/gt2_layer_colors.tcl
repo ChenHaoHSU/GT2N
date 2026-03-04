@@ -3020,6 +3020,16 @@ dr::createPacket BM1_drg -display $display_object -stipple contp \
                        -lineStyle solid -fill brown -outline brown
 dr::createPacket BV0_drg -display $display_object -stipple blank \
                 -lineStyle mediumLine -fill forest -outline forest -fillStyle X
+dr::createPacket ELVT_drg -display $display_object -stipple SR_cross \
+               -lineStyle solid -fill lightPurple -outline lightPurple
+dr::createPacket ULVT_drg -display $display_object -stipple SR_cross \
+             -lineStyle solid -fill ICC2_color37 -outline ICC2_color37
+dr::createPacket SVT_drg -display $display_object -stipple SR_cross \
+            -lineStyle solid -fill ICC2_color59 -outline ICC2_color59
+dr::createPacket HVT_drg -display $display_object -stipple SR_cross \
+                    -lineStyle solid -fill lightRed -outline lightRed
+dr::createPacket SRAMVT_drg -display $display_object -stipple SR_cross \
+             -lineStyle solid -fill SR_lightWhite -outline SR_lightWhite
 # PacketAliases definition
 dr::createPacketAlias SE_runtime -packet inherited -display $display_object
 dr::createPacketAlias LE_runtime -packet inherited -display $display_object
