@@ -2125,6 +2125,11 @@ drDefinePacket(
  ( display         NSEL_drg                               dot1                solid                green                  green                   ) 
  ( display         BM1_drg                                contp               solid                brown                  brown                   ) 
  ( display         BV0_drg                                blank               mediumLine           forest                 forest                 X ) 
+ ( display         ELVT_drg                               SR_cross            solid                lightPurple            lightPurple             ) 
+ ( display         ULVT_drg                               SR_cross            solid                ICC2_color37           ICC2_color37            ) 
+ ( display         SVT_drg                                SR_cross            solid                ICC2_color59           ICC2_color59            ) 
+ ( display         HVT_drg                                SR_cross            solid                lightRed               lightRed                ) 
+ ( display         SRAMVT_drg                             SR_cross            solid                SR_lightWhite          SR_lightWhite           ) 
 )
 drDefinePacketAlias(
 ;( DisplayName     AliasName                                    PacketName )
