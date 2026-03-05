@@ -8250,7 +8250,7 @@ library(gt2_6t_w31_elvt_tt_0p7v25c) {
     }
   }
 
-  cell(gt2_6t_decapcc) { 
+  cell(gt2_6t_decapcc_w31_elvt) { 
     area : 0.012096 ; 
     cell_leakage_power : 0 ; 
   }
@@ -21726,11 +21726,11 @@ library(gt2_6t_w31_elvt_tt_0p7v25c) {
       }
     }
   }
-  cell (gt2_6t_filler) { 
+  cell (gt2_6t_filler_w31_elvt) { 
     cell_leakage_power : 0 ;
     area : 0.006048;
   }
-  cell (gt2_6t_tap) { 
+  cell (gt2_6t_tap_w31_elvt) { 
     cell_leakage_power : 0 ;
     area : 0.012096;
   }
