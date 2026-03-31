@@ -1,6 +1,6 @@
 # GT2N PDK
 
-<img src="./VirtualFabrication.gif" alt="Demo" width="400">
+<img src="./VirtualFabricationDemo.gif" alt="VirtualFabricationDemo" width="400">
 
 This is the initial release for the GT2N PDK with 71 standard cells. It is based on 2nm GAAFET with BSPDN.
 
