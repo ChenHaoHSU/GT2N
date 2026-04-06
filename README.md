@@ -49,7 +49,7 @@ ITF: GT2N/nxtgrd/GT2.itf
 
 NXTGRD: GT2N/nxtgrd/GT2.nxtgrd
 
-The GAAFET (single nanosheet) model card is (depending on the process corner and W/VT flavor):
+The GAAFET (3-stack nanosheet) model card is (depending on the process corner and W/VT flavor):
 
 GT2N/device/tt/gt2_w31_lvt_tt.sp
 
