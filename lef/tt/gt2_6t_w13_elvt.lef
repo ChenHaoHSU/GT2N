@@ -330,7 +330,7 @@ MACRO gt2_6t_and3_x1_w13_elvt
     END
   END Y
   PIN C
-    DIRECTION INOUT ;
+    DIRECTION INPUT ;
     USE SIGNAL ;
     PORT
       LAYER M1 ;
@@ -360,7 +360,7 @@ MACRO gt2_6t_ao211_x1_w13_elvt
   FOREIGN gt2_6t_ao211_x1_w13_elvt 0 0 ;
   SIZE 0.294 BY 0.144 ;
   PIN B
-    DIRECTION INOUT ;
+    DIRECTION INPUT ;
     USE SIGNAL ;
     PORT
       LAYER M1 ;
@@ -408,7 +408,7 @@ MACRO gt2_6t_ao211_x1_w13_elvt
     END
   END A1
   PIN C
-    DIRECTION INOUT ;
+    DIRECTION INPUT ;
     USE SIGNAL ;
     PORT
       LAYER M1 ;
@@ -590,7 +590,7 @@ MACRO gt2_6t_ao31_x1_w13_elvt
   FOREIGN gt2_6t_ao31_x1_w13_elvt 0 0 ;
   SIZE 0.294 BY 0.144 ;
   PIN B
-    DIRECTION INOUT ;
+    DIRECTION INPUT ;
     USE SIGNAL ;
     PORT
       LAYER M1 ;
@@ -638,7 +638,7 @@ MACRO gt2_6t_ao31_x1_w13_elvt
     END
   END A1
   PIN A3
-    DIRECTION INOUT ;
+    DIRECTION INPUT ;
     USE SIGNAL ;
     PORT
       LAYER M1 ;
@@ -670,7 +670,7 @@ MACRO gt2_6t_ao32_x1_w13_elvt
   FOREIGN gt2_6t_ao32_x1_w13_elvt 0 0 ;
   SIZE 0.336 BY 0.144 ;
   PIN B2
-    DIRECTION INOUT ;
+    DIRECTION INPUT ;
     USE SIGNAL ;
     PORT
       LAYER M1 ;
@@ -718,7 +718,7 @@ MACRO gt2_6t_ao32_x1_w13_elvt
     END
   END A1
   PIN A3
-    DIRECTION INOUT ;
+    DIRECTION INPUT ;
     USE SIGNAL ;
     PORT
       LAYER M1 ;
@@ -726,7 +726,7 @@ MACRO gt2_6t_ao32_x1_w13_elvt
     END
   END A3
   PIN B1
-    DIRECTION INOUT ;
+    DIRECTION INPUT ;
     USE SIGNAL ;
     PORT
       LAYER M1 ;
@@ -759,7 +759,7 @@ MACRO gt2_6t_ao33_x1_w13_elvt
   FOREIGN gt2_6t_ao33_x1_w13_elvt 0 0 ;
   SIZE 0.378 BY 0.144 ;
   PIN B2
-    DIRECTION INOUT ;
+    DIRECTION INPUT ;
     USE SIGNAL ;
     PORT
       LAYER M1 ;
@@ -807,7 +807,7 @@ MACRO gt2_6t_ao33_x1_w13_elvt
     END
   END A1
   PIN A3
-    DIRECTION INOUT ;
+    DIRECTION INPUT ;
     USE SIGNAL ;
     PORT
       LAYER M1 ;
@@ -815,7 +815,7 @@ MACRO gt2_6t_ao33_x1_w13_elvt
     END
   END A3
   PIN B1
-    DIRECTION INOUT ;
+    DIRECTION INPUT ;
     USE SIGNAL ;
     PORT
       LAYER M1 ;
@@ -823,7 +823,7 @@ MACRO gt2_6t_ao33_x1_w13_elvt
     END
   END B1
   PIN B3
-    DIRECTION INOUT ;
+    DIRECTION INPUT ;
     USE SIGNAL ;
     PORT
       LAYER M1 ;
@@ -857,7 +857,7 @@ MACRO gt2_6t_aoi211_x1_w13_elvt
   FOREIGN gt2_6t_aoi211_x1_w13_elvt 0 0 ;
   SIZE 0.21 BY 0.144 ;
   PIN B
-    DIRECTION INOUT ;
+    DIRECTION INPUT ;
     USE SIGNAL ;
     PORT
       LAYER M1 ;
@@ -905,7 +905,7 @@ MACRO gt2_6t_aoi211_x1_w13_elvt
     END
   END A1
   PIN C
-    DIRECTION INOUT ;
+    DIRECTION INPUT ;
     USE SIGNAL ;
     PORT
       LAYER M1 ;
@@ -998,7 +998,7 @@ MACRO gt2_6t_aoi22_x1_w13_elvt
   FOREIGN gt2_6t_aoi22_x1_w13_elvt 0 0 ;
   SIZE 0.21 BY 0.144 ;
   PIN B1
-    DIRECTION INOUT ;
+    DIRECTION INPUT ;
     USE SIGNAL ;
     PORT
       LAYER M1 ;
@@ -1046,7 +1046,7 @@ MACRO gt2_6t_aoi22_x1_w13_elvt
     END
   END A1
   PIN B2
-    DIRECTION INOUT ;
+    DIRECTION INPUT ;
     USE SIGNAL ;
     PORT
       LAYER M1 ;
@@ -1073,7 +1073,7 @@ MACRO gt2_6t_aoi31_x1_w13_elvt
   FOREIGN gt2_6t_aoi31_x1_w13_elvt 0 0 ;
   SIZE 0.21 BY 0.144 ;
   PIN B
-    DIRECTION INOUT ;
+    DIRECTION INPUT ;
     USE SIGNAL ;
     PORT
       LAYER M1 ;
@@ -1121,7 +1121,7 @@ MACRO gt2_6t_aoi31_x1_w13_elvt
     END
   END A1
   PIN A3
-    DIRECTION INOUT ;
+    DIRECTION INPUT ;
     USE SIGNAL ;
     PORT
       LAYER M1 ;
@@ -1148,7 +1148,7 @@ MACRO gt2_6t_aoi32_x1_w13_elvt
   FOREIGN gt2_6t_aoi32_x1_w13_elvt 0 0 ;
   SIZE 0.252 BY 0.144 ;
   PIN B2
-    DIRECTION INOUT ;
+    DIRECTION INPUT ;
     USE SIGNAL ;
     PORT
       LAYER M1 ;
@@ -1196,7 +1196,7 @@ MACRO gt2_6t_aoi32_x1_w13_elvt
     END
   END A1
   PIN A3
-    DIRECTION INOUT ;
+    DIRECTION INPUT ;
     USE SIGNAL ;
     PORT
       LAYER M1 ;
@@ -1204,7 +1204,7 @@ MACRO gt2_6t_aoi32_x1_w13_elvt
     END
   END A3
   PIN B1
-    DIRECTION INOUT ;
+    DIRECTION INPUT ;
     USE SIGNAL ;
     PORT
       LAYER M1 ;
@@ -1232,7 +1232,7 @@ MACRO gt2_6t_aoi33_x1_w13_elvt
   FOREIGN gt2_6t_aoi33_x1_w13_elvt 0 0 ;
   SIZE 0.294 BY 0.144 ;
   PIN B2
-    DIRECTION INOUT ;
+    DIRECTION INPUT ;
     USE SIGNAL ;
     PORT
       LAYER M1 ;
@@ -1280,7 +1280,7 @@ MACRO gt2_6t_aoi33_x1_w13_elvt
     END
   END A1
   PIN A3
-    DIRECTION INOUT ;
+    DIRECTION INPUT ;
     USE SIGNAL ;
     PORT
       LAYER M1 ;
@@ -1288,7 +1288,7 @@ MACRO gt2_6t_aoi33_x1_w13_elvt
     END
   END A3
   PIN B1
-    DIRECTION INOUT ;
+    DIRECTION INPUT ;
     USE SIGNAL ;
     PORT
       LAYER M1 ;
@@ -1296,7 +1296,7 @@ MACRO gt2_6t_aoi33_x1_w13_elvt
     END
   END B1
   PIN B3
-    DIRECTION INOUT ;
+    DIRECTION INPUT ;
     USE SIGNAL ;
     PORT
       LAYER M1 ;
@@ -1784,7 +1784,7 @@ MACRO gt2_6t_dffasync_x1_w13_elvt
     END
   END CLK
   PIN D
-    DIRECTION INOUT ;
+    DIRECTION INPUT ;
     USE SIGNAL ;
     PORT
       LAYER M1 ;
@@ -1907,7 +1907,7 @@ MACRO gt2_6t_dffasync_x2_w13_elvt
     END
   END CLK
   PIN D
-    DIRECTION INOUT ;
+    DIRECTION INPUT ;
     USE SIGNAL ;
     PORT
       LAYER M1 ;
@@ -2044,7 +2044,7 @@ MACRO gt2_6t_dffasync_x4_w13_elvt
     END
   END CLK
   PIN D
-    DIRECTION INOUT ;
+    DIRECTION INPUT ;
     USE SIGNAL ;
     PORT
       LAYER M1 ;
@@ -2583,7 +2583,7 @@ MACRO gt2_6t_mux2_x1_w13_elvt
     END
   END A
   PIN B
-    DIRECTION INOUT ;
+    DIRECTION INPUT ;
     USE SIGNAL ;
     PORT
       LAYER M1 ;
@@ -2611,7 +2611,7 @@ MACRO gt2_6t_mux2_x1_w13_elvt
     END
   END vss
   PIN Y
-    DIRECTION INOUT ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER M1 ;
@@ -2619,7 +2619,7 @@ MACRO gt2_6t_mux2_x1_w13_elvt
     END
   END Y
   PIN S
-    DIRECTION INOUT ;
+    DIRECTION INPUT ;
     USE SIGNAL ;
     PORT
       LAYER M1 ;
@@ -3253,7 +3253,7 @@ MACRO gt2_6t_nor3_x1_w13_elvt
     END
   END B
   PIN C
-    DIRECTION INOUT ;
+    DIRECTION INPUT ;
     USE SIGNAL ;
     PORT
       LAYER M1 ;
@@ -3286,7 +3286,7 @@ MACRO gt2_6t_oa211_x1_w13_elvt
     END
   END A2
   PIN A1
-    DIRECTION INOUT ;
+    DIRECTION INPUT ;
     USE SIGNAL ;
     PORT
       LAYER M1 ;
@@ -3310,7 +3310,7 @@ MACRO gt2_6t_oa211_x1_w13_elvt
     END
   END vss
   PIN B
-    DIRECTION INOUT ;
+    DIRECTION INPUT ;
     USE SIGNAL ;
     PORT
       LAYER M1 ;
@@ -3326,7 +3326,7 @@ MACRO gt2_6t_oa211_x1_w13_elvt
     END
   END Y
   PIN C
-    DIRECTION INOUT ;
+    DIRECTION INPUT ;
     USE SIGNAL ;
     PORT
       LAYER M1 ;
@@ -3366,7 +3366,7 @@ MACRO gt2_6t_oa21_x1_w13_elvt
     END
   END A2
   PIN A1
-    DIRECTION INOUT ;
+    DIRECTION INPUT ;
     USE SIGNAL ;
     PORT
       LAYER M1 ;
@@ -3436,7 +3436,7 @@ MACRO gt2_6t_oa22_x1_w13_elvt
     END
   END A2
   PIN A1
-    DIRECTION INOUT ;
+    DIRECTION INPUT ;
     USE SIGNAL ;
     PORT
       LAYER M1 ;
@@ -3460,7 +3460,7 @@ MACRO gt2_6t_oa22_x1_w13_elvt
     END
   END vss
   PIN B1
-    DIRECTION INOUT ;
+    DIRECTION INPUT ;
     USE SIGNAL ;
     PORT
       LAYER M1 ;
@@ -3476,7 +3476,7 @@ MACRO gt2_6t_oa22_x1_w13_elvt
     END
   END Y
   PIN B2
-    DIRECTION INOUT ;
+    DIRECTION INPUT ;
     USE SIGNAL ;
     PORT
       LAYER M1 ;
@@ -3516,7 +3516,7 @@ MACRO gt2_6t_oa31_x1_w13_elvt
     END
   END A2
   PIN A1
-    DIRECTION INOUT ;
+    DIRECTION INPUT ;
     USE SIGNAL ;
     PORT
       LAYER M1 ;
@@ -3540,7 +3540,7 @@ MACRO gt2_6t_oa31_x1_w13_elvt
     END
   END vss
   PIN A3
-    DIRECTION INOUT ;
+    DIRECTION INPUT ;
     USE SIGNAL ;
     PORT
       LAYER M1 ;
@@ -3556,7 +3556,7 @@ MACRO gt2_6t_oa31_x1_w13_elvt
     END
   END Y
   PIN B
-    DIRECTION INOUT ;
+    DIRECTION INPUT ;
     USE SIGNAL ;
     PORT
       LAYER M1 ;
@@ -3596,7 +3596,7 @@ MACRO gt2_6t_oa32_x1_w13_elvt
     END
   END A2
   PIN A1
-    DIRECTION INOUT ;
+    DIRECTION INPUT ;
     USE SIGNAL ;
     PORT
       LAYER M1 ;
@@ -3620,7 +3620,7 @@ MACRO gt2_6t_oa32_x1_w13_elvt
     END
   END vss
   PIN A3
-    DIRECTION INOUT ;
+    DIRECTION INPUT ;
     USE SIGNAL ;
     PORT
       LAYER M1 ;
@@ -3636,7 +3636,7 @@ MACRO gt2_6t_oa32_x1_w13_elvt
     END
   END Y
   PIN B1
-    DIRECTION INOUT ;
+    DIRECTION INPUT ;
     USE SIGNAL ;
     PORT
       LAYER M1 ;
@@ -3644,7 +3644,7 @@ MACRO gt2_6t_oa32_x1_w13_elvt
     END
   END B1
   PIN B2
-    DIRECTION INOUT ;
+    DIRECTION INPUT ;
     USE SIGNAL ;
     PORT
       LAYER M1 ;
@@ -3685,7 +3685,7 @@ MACRO gt2_6t_oa33_x1_w13_elvt
     END
   END A2
   PIN A1
-    DIRECTION INOUT ;
+    DIRECTION INPUT ;
     USE SIGNAL ;
     PORT
       LAYER M1 ;
@@ -3709,7 +3709,7 @@ MACRO gt2_6t_oa33_x1_w13_elvt
     END
   END vss
   PIN A3
-    DIRECTION INOUT ;
+    DIRECTION INPUT ;
     USE SIGNAL ;
     PORT
       LAYER M1 ;
@@ -3725,7 +3725,7 @@ MACRO gt2_6t_oa33_x1_w13_elvt
     END
   END Y
   PIN B1
-    DIRECTION INOUT ;
+    DIRECTION INPUT ;
     USE SIGNAL ;
     PORT
       LAYER M1 ;
@@ -3733,7 +3733,7 @@ MACRO gt2_6t_oa33_x1_w13_elvt
     END
   END B1
   PIN B2
-    DIRECTION INOUT ;
+    DIRECTION INPUT ;
     USE SIGNAL ;
     PORT
       LAYER M1 ;
@@ -3741,7 +3741,7 @@ MACRO gt2_6t_oa33_x1_w13_elvt
     END
   END B2
   PIN B3
-    DIRECTION INOUT ;
+    DIRECTION INPUT ;
     USE SIGNAL ;
     PORT
       LAYER M1 ;
@@ -3783,7 +3783,7 @@ MACRO gt2_6t_oai211_x1_w13_elvt
     END
   END A2
   PIN A1
-    DIRECTION INOUT ;
+    DIRECTION INPUT ;
     USE SIGNAL ;
     PORT
       LAYER M1 ;
@@ -3807,7 +3807,7 @@ MACRO gt2_6t_oai211_x1_w13_elvt
     END
   END vss
   PIN B
-    DIRECTION INOUT ;
+    DIRECTION INPUT ;
     USE SIGNAL ;
     PORT
       LAYER M1 ;
@@ -3823,7 +3823,7 @@ MACRO gt2_6t_oai211_x1_w13_elvt
     END
   END Y
   PIN C
-    DIRECTION INOUT ;
+    DIRECTION INPUT ;
     USE SIGNAL ;
     PORT
       LAYER M1 ;
@@ -3858,7 +3858,7 @@ MACRO gt2_6t_oai21_x1_w13_elvt
     END
   END A2
   PIN A1
-    DIRECTION INOUT ;
+    DIRECTION INPUT ;
     USE SIGNAL ;
     PORT
       LAYER M1 ;
@@ -3924,7 +3924,7 @@ MACRO gt2_6t_oai22_x1_w13_elvt
     END
   END A2
   PIN A1
-    DIRECTION INOUT ;
+    DIRECTION INPUT ;
     USE SIGNAL ;
     PORT
       LAYER M1 ;
@@ -3948,7 +3948,7 @@ MACRO gt2_6t_oai22_x1_w13_elvt
     END
   END vss
   PIN B1
-    DIRECTION INOUT ;
+    DIRECTION INPUT ;
     USE SIGNAL ;
     PORT
       LAYER M1 ;
@@ -3964,7 +3964,7 @@ MACRO gt2_6t_oai22_x1_w13_elvt
     END
   END Y
   PIN B2
-    DIRECTION INOUT ;
+    DIRECTION INPUT ;
     USE SIGNAL ;
     PORT
       LAYER M1 ;
@@ -3999,7 +3999,7 @@ MACRO gt2_6t_oai31_x1_w13_elvt
     END
   END A2
   PIN A1
-    DIRECTION INOUT ;
+    DIRECTION INPUT ;
     USE SIGNAL ;
     PORT
       LAYER M1 ;
@@ -4023,7 +4023,7 @@ MACRO gt2_6t_oai31_x1_w13_elvt
     END
   END vss
   PIN A3
-    DIRECTION INOUT ;
+    DIRECTION INPUT ;
     USE SIGNAL ;
     PORT
       LAYER M1 ;
@@ -4039,7 +4039,7 @@ MACRO gt2_6t_oai31_x1_w13_elvt
     END
   END Y
   PIN B
-    DIRECTION INOUT ;
+    DIRECTION INPUT ;
     USE SIGNAL ;
     PORT
       LAYER M1 ;
@@ -4074,7 +4074,7 @@ MACRO gt2_6t_oai32_x1_w13_elvt
     END
   END A2
   PIN A1
-    DIRECTION INOUT ;
+    DIRECTION INPUT ;
     USE SIGNAL ;
     PORT
       LAYER M1 ;
@@ -4098,7 +4098,7 @@ MACRO gt2_6t_oai32_x1_w13_elvt
     END
   END vss
   PIN A3
-    DIRECTION INOUT ;
+    DIRECTION INPUT ;
     USE SIGNAL ;
     PORT
       LAYER M1 ;
@@ -4114,7 +4114,7 @@ MACRO gt2_6t_oai32_x1_w13_elvt
     END
   END Y
   PIN B1
-    DIRECTION INOUT ;
+    DIRECTION INPUT ;
     USE SIGNAL ;
     PORT
       LAYER M1 ;
@@ -4122,7 +4122,7 @@ MACRO gt2_6t_oai32_x1_w13_elvt
     END
   END B1
   PIN B2
-    DIRECTION INOUT ;
+    DIRECTION INPUT ;
     USE SIGNAL ;
     PORT
       LAYER M1 ;
@@ -4158,7 +4158,7 @@ MACRO gt2_6t_oai33_x1_w13_elvt
     END
   END A2
   PIN A1
-    DIRECTION INOUT ;
+    DIRECTION INPUT ;
     USE SIGNAL ;
     PORT
       LAYER M1 ;
@@ -4182,7 +4182,7 @@ MACRO gt2_6t_oai33_x1_w13_elvt
     END
   END vss
   PIN A3
-    DIRECTION INOUT ;
+    DIRECTION INPUT ;
     USE SIGNAL ;
     PORT
       LAYER M1 ;
@@ -4198,7 +4198,7 @@ MACRO gt2_6t_oai33_x1_w13_elvt
     END
   END Y
   PIN B1
-    DIRECTION INOUT ;
+    DIRECTION INPUT ;
     USE SIGNAL ;
     PORT
       LAYER M1 ;
@@ -4206,7 +4206,7 @@ MACRO gt2_6t_oai33_x1_w13_elvt
     END
   END B1
   PIN B2
-    DIRECTION INOUT ;
+    DIRECTION INPUT ;
     USE SIGNAL ;
     PORT
       LAYER M1 ;
@@ -4214,7 +4214,7 @@ MACRO gt2_6t_oai33_x1_w13_elvt
     END
   END B2
   PIN B3
-    DIRECTION INOUT ;
+    DIRECTION INPUT ;
     USE SIGNAL ;
     PORT
       LAYER M1 ;
@@ -4527,7 +4527,7 @@ MACRO gt2_6t_or3_x1_w13_elvt
     END
   END Y
   PIN C
-    DIRECTION INOUT ;
+    DIRECTION INPUT ;
     USE SIGNAL ;
     PORT
       LAYER M1 ;
